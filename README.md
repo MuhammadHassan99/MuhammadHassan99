@@ -1,4 +1,4 @@
-<img align="centre" src="https://res.cloudinary.com/practicaldev/image/fetch/s--tSq3pK63--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/j71o6fyry39eaz1eyjna.jpg"/>
+<img align="centre" src="https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg"/>
 ### Hi there 👋I'm Muahammad Hassan!
 
 ## MY GIT STATS
