@@ -6,13 +6,12 @@ Unusual Stuff😄
 
     🌱 I’m currently learning React-JS
     💬 Ask me anything about JavaScript stuff
-    📫 How to reach me: usman.subhan235@gmail.com
+    📫 How to reach me: hassanmuhammad436@gmail.com
 
 Stack 📘
 
     📎 HTML / CSS / SCSS
     📎 JavaScript / React / jquery /Bootstrap.
-    📎 Knowledge of Linux, Docker and Kubernetes.
     📎 Knowledge of front end Wordpress development.
 
 
