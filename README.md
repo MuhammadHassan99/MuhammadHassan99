@@ -1,6 +1,21 @@
 <img align="centre" src="https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg"/>
 ### Hi there 👋I'm Muhammad Hassan!
 
+Undergrad student of BS-CS NEDUET. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech companies.
+Unusual Stuff😄
+
+    🌱 I’m currently learning React-JS
+    💬 Ask me anything about JavaScript stuff
+    📫 How to reach me: usman.subhan235@gmail.com
+
+Stack 📘
+
+    📎 HTML / CSS / SCSS
+    📎 JavaScript / React / jquery /Bootstrap.
+    📎 Knowledge of Linux, Docker and Kubernetes.
+    📎 Knowledge of front end Wordpress development.
+
+
 ## MY GIT STATS
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MuhammadHassan99&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
