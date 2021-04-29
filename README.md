@@ -11,7 +11,7 @@ Unusual Stuff😄
 Stack 📘
 
     📎 HTML / CSS / SCSS
-    📎 JavaScript / React / jquery /Bootstrap.
+    📎 JavaScript / React / Redux / Next.js / jquery / Bootstrap.
     📎 Knowledge of front end Wordpress development.
 
 
