@@ -4,14 +4,14 @@
 Undergrad student of BS-CS NEDUET. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech companies.
 Unusual Stuff😄
 
-    🌱 I’m currently learning React-JS
+    🌱 I’m currently working as a React-Native Developer
     💬 Ask me anything about JavaScript stuff
     📫 How to reach me: hassanmuhammad436@gmail.com
 
 Stack 📘
 
     📎 HTML / CSS / SCSS
-    📎 JavaScript / React / Redux / Next.js / jquery / Bootstrap.
+    📎 JavaScript / React / React-Native / Redux / Next.js / jquery / Bootstrap.
     📎 Knowledge of front end Wordpress development.
 
 
